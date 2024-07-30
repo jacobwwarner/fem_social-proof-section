@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/jacobwwarner/fem-social-proof-section)
-- Live Site URL: (https://vocal-bunny-62b76d.netlify.app/)
+- Solution URL: (https://github.com/jacobwwarner/fem_social-proof-section)
+- Live Site URL: (https://jacobwwarner-social-proof-section.netlify.app/)
 
 ## My process
 
