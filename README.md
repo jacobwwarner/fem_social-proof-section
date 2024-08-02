@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/jacobwwarner/fem_social-proof-section)
+- Solution URL: (https://www.frontendmentor.io/solutions/responsive-social-proof-section-9bxrTEKWKU)
 - Live Site URL: (https://jacobwwarner-social-proof-section.netlify.app/)
 
 ## My process
